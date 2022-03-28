@@ -10,7 +10,7 @@ One way to implement this is to present the user with a list of categories. A us
 
 You will need to spend time exploring the [Open Trivia Database API](https://opentdb.com/) to see what kind of data you are working with and the different options that the API gives you. This might give you some ideas for things you want to do in your application.
 
-[Wireframe](https://balsamiq.com/learn/articles/what-are-wireframes) your design before you start building and think about how your user will interact with your application. Figuring out what you want the user to see and do will help you plan the components you need. You may want to start with one big component that you then break down into smaller ones that have only one job. Note that wireframing is about organization and functionality, and not about styling.
+[Wireframe](https://balsamiq.com/learn/articles/what-are-wireframes) your design before you start building and think about how your user will interact with your application. Figuring out what you want the user to see and do will help you plan the components you need. You may want to start with one big component that you then break down into smaller ones that have only one job. Note that wireframing is about organization and functionality, not about styling.
 
 Your first task should be getting categories to show up on the page. Then, give your user a way to select a category and see questions for that category.
 
