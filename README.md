@@ -27,6 +27,21 @@ From there, think about what the user wants to do next. What will they see and d
 - Your application uses Open Trivia Database's API.
 - Your application is styled.
 
+**Minimum functional requirements:**
+
+- A user can see a list of categories.
+- A user can select one category.
+- A user can see questions for that category, with answer options for each question.
+- A user can select an answer for a question.
+- A user can see if that answer is the correct answer.
+- A user can go back to the category list and start over.
+
+**It would be awesome if:**
+
+- The answers are shuffled so that the correct answer is not always in the same position.
+- The questions are shown one at a time instead of all at once, and the user is able to advance through the set of questions.
+- A user can see how many questions they answered correctly (or some kind of score) when they have answered all the questions in a category.
+
 ## 🌶️ Ideas once you have the basics working
 
 You are free to design your application however you like, but here are some ideas for things to consider. None of these are required. You're also welcome to implement something not on this list. 
